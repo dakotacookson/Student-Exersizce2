@@ -1,0 +1,11 @@
+G:\workspace\studentexersizce2\bin\Debug\netcoreapp2.2\studentexersizce2.deps.json
+G:\workspace\studentexersizce2\bin\Debug\netcoreapp2.2\studentexersizce2.runtimeconfig.json
+G:\workspace\studentexersizce2\bin\Debug\netcoreapp2.2\studentexersizce2.runtimeconfig.dev.json
+G:\workspace\studentexersizce2\bin\Debug\netcoreapp2.2\studentexersizce2.dll
+G:\workspace\studentexersizce2\bin\Debug\netcoreapp2.2\studentexersizce2.pdb
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.csprojAssemblyReference.cache
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.csproj.CoreCompileInputs.cache
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.AssemblyInfoInputs.cache
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.AssemblyInfo.cs
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.dll
+G:\workspace\studentexersizce2\obj\Debug\netcoreapp2.2\studentexersizce2.pdb
